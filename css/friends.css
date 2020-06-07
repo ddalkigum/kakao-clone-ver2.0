@@ -17,9 +17,10 @@
     opacity: 0.6;
     margin-bottom: 10px;
 }
-.friends__list .friend__content{
-    padding: 17px 4px;
-    margin-top: 5px;
+.friends__list .friends__friend{
+    padding: 9px 0px;
+}
     
+
     
 }
